@@ -1,0 +1,4 @@
+2022-07-15 22:25:23,374 - [WARNING] - [decor_logger] Starting function sum
+2022-07-15 22:25:23,374 - [INFO] - [decor_logger] Аргументы 50 и 15
+2022-07-15 22:25:23,374 - [INFO] - [decor_logger] Значение 65
+2022-07-15 22:25:23,374 - [WARNING] - [decor_logger] Ending!
